@@ -15,30 +15,38 @@
 
 ### Q1. What is industrial automation? Explain it in 3–5 sentences. (5 marks)
 
-`[Write your answer here]`
+industrial automation is like our cup which process huge amount of data in very less time. It involve various temperatures Sensors micro Controllers and robotics the industrial Automation is a Simplification of work or replacement of human to machines or robots using PLC and SCADA. It help to improve production and safety also 
 
 ### Q2. State any four reasons industries use automation. (4 marks)
 
-1. `[Reason 1]`
-2. `[Reason 2]`
-3. `[Reason 3]`
-4. `[Reason 4]`
+1. to Increase the production in industrial field .
+2. cost reduction automation lower the cost of production over the time.
+3. automation is more consistent than labors and also there is a less labor Strike which is the main reason of industry collaps
+4. Safety of the workers also Ensure by Automation 
+
+
 
 ### Q3. Give three examples of processes that can be automated using PLC and SCADA. (3 marks)
 
-1. `[Example 1]`
-2. `[Example 2]`
-3. `[Example 3]`
+1. Automation food and beverage bottling line. PLC control the overall packaging of the water bottles and also control the valves of water
+2. we can also use PLC in thermal power plant boiler control and maintain the Temperature of the boiler
+3. plc can also use in precision manufacturing within the aviation and aerospace industries.
 
 ### Q4. Complete the automation sequence. (3 marks)
 
-```text
-__________  →  __________  →  __________  →  __________
-```
+                                              
+input -> thinking -> Decision -> Action
+
+---
 
 Explain the meaning of each stage:
+ Really I know A little bit about The stages of PLC That I explain 
+ 1st is input that provide the Initial cods to the plc 
+ 2nd then it think or process the code then then apply the changes 
+ 3rd now it decide what action will done on the plc 
+ 4th take action.....
 
-`[Write your explanation here]`
+
 
 ---
 
@@ -46,7 +54,8 @@ Explain the meaning of each stage:
 
 ### Q5. Expand PLC and explain why it is called an industrial computer. (5 marks)
 
-`[Write your answer here]`
+Programmable Logical Controller PLC It is a specific purpose digital computer designed to automate electronic machines.
+usually it is used in industrial field To automate the large machineries and also use less manpower. It used to increase the production of the industry And also simplify the work. 
 
 ### Q6. Classify each device as a PLC input or PLC output. (5 marks)
 
