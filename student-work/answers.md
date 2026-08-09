@@ -4,10 +4,10 @@
 
 | Field | Student Response |
 |---|---|
-| Full name | `[Enter your full name]` |
-| GitHub username | `[Enter your GitHub username]` |
-| Class/college | `[Enter your class and college]` |
-| Submission date | `[Enter the date]` |
+| Full name | `yash dilip belokar` |
+| GitHub username | `yashbelokar` |
+| Class/college | `shankarlal khandelwal` |
+| Submission date | `aug 09 2026` |
 
 ---
 
