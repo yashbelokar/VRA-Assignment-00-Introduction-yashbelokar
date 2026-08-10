@@ -37,7 +37,6 @@ industrial automation is like our cup which process huge amount of data in very 
                                               
 input -> thinking -> Decision -> Action
 
----
 
 Explain the meaning of each stage:
  Really I know A little bit about The stages of PLC That I explain 
@@ -61,30 +60,30 @@ usually it is used in industrial field To automate the large machineries and als
 
 | Device | Input or Output? |
 |---|---|
-| Push button | `[Answer]` |
-| Proximity sensor | `[Answer]` |
-| Motor contactor | `[Answer]` |
-| Indicator lamp | `[Answer]` |
-| Temperature sensor | `[Answer]` |
+| Push button | input |
+| Proximity sensor | input  |
+| Motor contactor | output |
+| Indicator lamp | output |
+| Temperature sensor | input  |
 
 ### Q7. Write the three main PLC working steps in the correct order. (6 marks)
 
-1. `[Step 1]`
-2. `[Step 2]`
-3. `[Step 3]`
+1. Input Scan
+2. Logic Solve
+3. Output Scan
 
 ### Q8. What is a PLC scan cycle? Why must it repeat continuously? (5 marks)
 
-`[Write your answer here]`
+A PLC scan cycle is the sequential process that a Programmable Logic Controller's CPU repeats endlessly to monitor field inputs, process logic, and control physical outputs. The total time taken to complete one full loop is called the scan time
 
 ### Q9. Identify the PLC section responsible for each function. (4 marks)
 
 | Function | PLC Section |
 |---|---|
-| Executes the user program | `[Answer]` |
-| Stores the program and data | `[Answer]` |
-| Reads field-device signals | `[Answer]` |
-| Controls external devices | `[Answer]` |
+| Executes the user program | cpu |
+| Stores the program and data | memory section  |
+| Reads field-device signals |input  |
+| Controls external devices |output or end result  |
 
 ---
 
@@ -92,30 +91,31 @@ usually it is used in industrial field To automate the large machineries and als
 
 ### Q10. Expand SCADA and explain its purpose. (5 marks)
 
-`[Write your answer here]`
+Supervisory Control and Data Acquisition.SCADA is a system of computers, software, and hardware that acts as the "brain and central dashboard" for running big facilities—like power plants, water treatment facilities, factories, or oil pipelines.
 
 ### Q11. State five important functions of a SCADA system. (5 marks)
 
-1. `[Function 1]`
-2. `[Function 2]`
-3. `[Function 3]`
-4. `[Function 4]`
-5. `[Function 5]`
+1. Human-Machine Interface
+2. Data Acquisition
+3. Alarm Warning
+4. Remote Control
+5. Real-time Monitoring
 
 ### Q12. Why is SCADA described as the “eyes” of an automation system? (4 marks)
 
-`[Write your answer here]`
+SCADA is called the “eyes” of an automation system because it provides total visual visibility into distant, complex industrial operations that operators cannot physically watch at once.
 
 ### Q13. Name four industries or services where SCADA can be used. (4 marks)
 
-1. `[Industry/service 1]`
-2. `[Industry/service 2]`
-3. `[Industry/service 3]`
-4. `[Industry/service 4]`
+1. Water & Wastewater Management
+2. Manufacturing & Automotive
+3. Oil & Gas Pipelines
+4. Power & Energy Grids
 
 ### Q14. What is the difference between monitoring and controlling? (2 marks)
 
-`[Write your answer here]`
+the monitoring is just watching the process we can not Chang any type of code in it 
+In controlling we can control the machins 
 
 ---
 
@@ -128,10 +128,10 @@ usually it is used in industrial field To automate the large machineries and als
 | PLC | `[Answer]` | `[Answer]` | `[Answer]` |
 | HMI | `[Answer]` | `[Answer]` | `[Answer]` |
 | SCADA | `[Answer]` | `[Answer]` | `[Answer]` |
-
+Not know about this concept
 ### Q16. Explain how information travels from a field sensor to a SCADA screen. (6 marks)
 
-`[Write your answer here]`
+not know 
 
 ---
 
@@ -143,24 +143,24 @@ A tank must fill automatically. A low-level sensor detects when water is low, an
 
 ### Q17. Identify the PLC inputs and output. (3 marks)
 
-- Inputs: `[Write the inputs]`
-- Output: `[Write the output]`
+- Inputs: High-Level Sensor , Low-Level Sensor
+- Output: Water Pump
 
 ### Q18. Write the required control behaviour in plain language. (4 marks)
 
-`[Write your answer here]`
+not know about it 
 
 ### Q19. State four items that should be visible on the SCADA/HMI screen. (4 marks)
 
-1. `[Item 1]`
-2. `[Item 2]`
-3. `[Item 3]`
-4. `[Item 4]`
+1. data 
+2. Temperature sensors
+3. System Control & Navigation
+4. Alarm Management
 
 ### Q20. Suggest one alarm and one value/event that should be recorded. (4 marks)
 
-- Alarm: `[Write the alarm]`
-- Recorded value/event: `[Write what should be recorded]`
+- Alarm: When the water is full  in a certain level
+- Recorded value/event: The duration of the Completely filling the tank
 
 ---
 
