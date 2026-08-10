@@ -2,28 +2,29 @@
 
 ## Student Name
 
-`[Enter your full name]`
+yash dilip belokar 
 
 ## 1. The most important concept I learned in Session 1 was:
 
-`[Write 2–4 sentences]`
+plc concept is new for me. i never learn or listen about plc but after my 1st session i learn about it.
 
 ## 2. One concept that I initially found difficult was:
 
-`[Write 2–4 sentences]`
+coding and learning the logical concept 
 
 ## 3. One real-life process where I would like to apply PLC and SCADA is:
 
-`[Write 2–4 sentences]`
+In my hostel room where i want to use it. to control the light and fans from away from the hostel 
 
 ## 4. My confidence after completing this assignment
+pretty good confidence after one first session
 
 Select one by replacing the empty box with `x`:
 
-- [ ] I need more revision.
-- [ ] I understand the basics but need practice.
-- [ ] I can confidently explain the introductory concepts.
+- [x] I need more revision.
+- [x] I understand the basics but need practice.
+- [x] I can confidently explain the introductory concepts.
 
 ## 5. One question I would like to ask Prof. Dattaraj Vidyasagar:
 
-`[Write your question here]`
+I like to ask how to improve Learning skill and coding skill
