@@ -125,13 +125,13 @@ In controlling we can control the machins
 
 | System | Main purpose | Typical user/location | Example task |
 |---|---|---|---|
-| PLC | `[Answer]` | `[Answer]` | `[Answer]` |
-| HMI | `[Answer]` | `[Answer]` | `[Answer]` |
-| SCADA | `[Answer]` | `[Answer]` | `[Answer]` |
+| PLC | Direct, real-time control| Automation Engineers | Reading a sensor value to start a motor |
+| HMI | Local visual interface| Machine Operators |Displaying real-time temperature graph |
+| SCADA | High-level supervisory control, | Plant Managers | Tracking plant-wide energy consumption |
 Not know about this concept
 ### Q16. Explain how information travels from a field sensor to a SCADA screen. (6 marks)
 
-not know 
+Not familiar to this concept
 
 ---
 
@@ -146,7 +146,7 @@ A tank must fill automatically. A low-level sensor detects when water is low, an
 - Inputs: High-Level Sensor , Low-Level Sensor
 - Output: Water Pump
 
-### Q18. Write the required control behaviour in plain language. (4 marks)
+### Q18. Write the required control Behavior in plain language. (4 marks)
 
 not know about it 
 
