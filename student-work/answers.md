@@ -166,11 +166,11 @@ not know about it
 
 ## Submission Checklist
 
-- [ ] I entered my student information.
-- [ ] I answered Questions 1–20.
-- [ ] I used my own words.
-- [ ] I checked spellings and technical terms.
-- [ ] I completed `student-work/reflection.md`.
-- [ ] I made at least three meaningful commits.
-- [ ] I checked the Actions result.
-- [ ] I submitted my repository link to Prof. Dattaraj Vidyasagar.
+- [x] I entered my student information.
+- [x] I answered Questions 1–20.
+- [x] I used my own words.
+- [x] I checked spellings and technical terms.
+- [x] I completed `student-work/reflection.md`.
+- [x] I made at least three meaningful commits.
+- [x] I checked the Actions result.
+- [x] I submitted my repository link to Prof. Dattaraj Vidyasagar.
